@@ -9,6 +9,8 @@ ASAV (AnggaSabber's AntiVirus) is a lightweight antivirus solution written in
         <a href="https://github.com/hanul93/kicomav" target="_blank">
             KicomAV Engine
 
+Use this as a secondary Antivirus as this antivirus run above kernel level so it wouldn't conflict with Anticheats like Vanguard. but this antivirus is not gonna be the same caliber as established antiviruses like Malwarebytes or Kaspersky. This antivirus works great alongside Windows Defender.
+
 ## Features
 
 - KicomAV scanning engine integration (`kicomav.Scanner`)
@@ -17,6 +19,7 @@ ASAV (AnggaSabber's AntiVirus) is a lightweight antivirus solution written in
 - Threat quarantine with restore/delete actions
 - Signature update action from the UI
 - Persistent settings (exclusions, real-time toggle, quarantine behavior)
+- Lightweight. Uses ~200MB of RAM after full system scan, only ~80MB on idle/boot
 
 ## Project structure
 
