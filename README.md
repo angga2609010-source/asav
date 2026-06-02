@@ -1,6 +1,12 @@
 # ASAV (Python GUI + KicomAV engine)
 
-ASAV is a Windows desktop antivirus interface written in Python and powered by the **KicomAV** malware engine.
+
+
+ASAV (AnggaSabber's AntiVirus) is a lightweight antivirus solution written in
+        <strong>Python</strong>. It combines speed, simplicity, and effective malware
+        detection using the open-source
+        <a href="https://github.com/hanul93/kicomav" target="_blank">
+            KicomAV Engine
 
 ## Features
 
