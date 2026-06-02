@@ -1,0 +1,8 @@
+# ASAV requires Python 3.10 - 3.13 (NOT 3.14+).
+# yara-python (KicomAV dependency) has no Windows wheel for Python 3.14 yet.
+
+kicomav>=0.41
+customtkinter>=5.2.0
+watchdog>=4.0.0
+Pillow>=10.0.0
+pystray>=0.19.5

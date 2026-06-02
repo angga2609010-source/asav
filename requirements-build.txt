@@ -1,0 +1,2 @@
+# Build-only dependencies (install via build.bat)
+pyinstaller>=6.0
