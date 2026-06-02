@@ -1,5 +1,6 @@
 # ASAV (Python GUI + KicomAV engine)
 
+<img width="1919" height="988" alt="Screenshot 2026-05-31 220247" src="https://github.com/user-attachments/assets/54c297da-15c2-4ade-a6d3-34b9286a647b" />
 
 
 ASAV (AnggaSabber's AntiVirus) is a lightweight antivirus solution written in
